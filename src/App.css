@@ -229,3 +229,8 @@ h1 {
     margin: 1rem;
   }
 }
+
+.loading{
+  color: #fff;
+  font-size: 28px;
+}
